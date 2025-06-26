@@ -1,1 +1,2 @@
-# networkdomaintest
+*.google.com
+*.broadwaylifestyle.com
