@@ -1,2 +1,2 @@
-*.google.com
+*.pns.*
 *.broadwaylifestyle.com
